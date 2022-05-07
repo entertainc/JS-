@@ -1,2 +1,14 @@
 # JS-
-常见手写题
+1. 数组扁平化
+2. call
+3. apply
+4. bind
+5. 深拷贝
+6. instanceOf
+7. Array.prototype.map
+8. new
+9. Promise
+10. 观察者模式
+11. 发布订阅模式
+12. 节流
+13. 防抖
